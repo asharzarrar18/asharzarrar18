@@ -10,9 +10,11 @@
 
 ### Languages
 - JavaScript
+- HTML/CSS
 
 ### Frameworks & Libraries
 - Node.js
+- OOP
 
 ### Tools
 - Git
